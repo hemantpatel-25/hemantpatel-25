@@ -21,7 +21,7 @@ Computer Science undergraduate at KIIT, Bhubaneswar — focused on **data analyt
 
 | Project | Tools | Description |
 |---|---|---|
-| [🛒 Olist E-Commerce Analytics Dashboard](https://github.com/hemantpatel-25/olist-ecommerce-analysis) | Python, Pandas, Power BI | End-to-end pipeline on 99K+ orders — 3-notebook EDA & cleaning workflow, feature engineering (RFM segmentation, regional mapping) & 2-page interactive dashboard covering revenue trends, customer geography & delivery KPIs  |
+| [🛒 Olist E-Commerce Analytics Dashboard](https://github.com/hemantpatel-25/olist-analytics) | Python, Pandas, Power BI | End-to-end pipeline on 99K+ orders — 3-notebook EDA & cleaning workflow, feature engineering (RFM segmentation, regional mapping) & 2-page interactive dashboard covering revenue trends, customer geography & delivery KPIs  |
 | [📦 Inventory & Supply Chain Analytics](https://github.com/hemantpatel-25/Samsung-Supply-Chain-PowerBI) | SQL, Excel, Power BI | Identified 22% excess inventory; built KPI dashboard for stockout risk & supplier performance |
 | [🎵 Spotify Data Analysis](https://github.com/hemantpatel-25/Spotify-Data-Analysis) | Python, EDA | Explored audio feature correlations with track popularity across genres and decades |
 
